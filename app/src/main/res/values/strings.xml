@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UI Gaming Launcher</string>
+    <string name="title_games">Meus Jogos</string>
+    <string name="title_categories">Categorias</string>
+    <string name="title_history">Histórico</string>
+    <string name="title_settings">Configurações</string>
+    <string name="label_recent">Recentes</string>
+    <string name="label_popular">Populares</string>
+    <string name="label_all_games">Todos os Jogos</string>
+    <string name="label_play">Jogar</string>
+    <string name="label_open">Abrir</string>
+    <string name="label_info">Informações</string>
+    <string name="label_uninstall">Desinstalar</string>
+    <string name="label_loading">Carregando jogos...</string>
+    <string name="label_no_games">Nenhum jogo encontrado</string>
+    <string name="label_fullscreen">Tela Cheia</string>
+    <string name="label_exit">Sair</string>
+</resources>
